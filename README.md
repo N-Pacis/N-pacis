@@ -8,7 +8,7 @@ My name is Nkubito Pacis and I am a full-stack web developer and programmer. I h
 - 🔭 I’m currently working on A Talent Promotion and Competition Management System
 - 🌱 I’m currently learning Python/Django and Angular
 - 📫 How to reach me: pacisnkubito@gmail.com
-- ⚡ Advice: Think big and work efficiently and in a short time 
+- ⚡ Advice: Think big and work on a lot of projects
 
 #### Top Technologies & Tools
 
