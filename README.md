@@ -3,7 +3,7 @@
 My name is Nkubito Pacis and I am a full-stack web developer and programmer. I have a passion in doing backend development mostly and i also do frontend stuff. I am full hooked into Javascript and Python and I use it in my daily projects.
 
 # Reach Me Out:
-[![Linkedin Badge](https://img.shields.io/badge/-Pacis-Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pacis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirwa-blessing) [![Mail Badge](https://img.shields.io/badge/-@blessingartcreator-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/blessingartcreator/) [![Mail Badge](https://img.shields.io/badge/-hirwablessing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hirwablessing7@gmail.com)
 <!--
 **N-Pacis/N-pacis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
