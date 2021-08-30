@@ -10,9 +10,9 @@ My name is Nkubito Pacis and I am a full-stack web developer and programmer. I h
 - ⚡ Advice: Work smarter not harder
 
 #### Some of the projects i'm still working on:
-[Nyigisha E-learning](http://nyigisha-e-learning.herokuapp.com/)<br>
-[Store Management System](http://store-management-pacis.herokuapp.com/)<br>
-[Code Ama( Backend Part)](http://store-management-pacis.herokuapp.com/)<br>
+- [Nyigisha E-learning](http://nyigisha-e-learning.herokuapp.com/)<br>
+- [Store Management System](http://store-management-pacis.herokuapp.com/)<br>
+- [Code Ama( Backend Part)](http://store-management-pacis.herokuapp.com/)<br>
 
 #### Top Technologies & Tools
 
