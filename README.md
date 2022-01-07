@@ -5,9 +5,10 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201) [![Mail Badge](https://img.shields.io/badge/-@stellan_011-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/stellan_011/) [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
 
-- 🌱 I’m currently learning Python/Django and mastering laravel
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: pacisnkubito@gmail.com
 - ⚡ Advice: Work smarter not harder
+- 🎮Fun Fact: I love gaming
 
 #### Some of the projects i'm still working on:
 - [Nyigisha E-learning](http://nyigisha-e-learning.herokuapp.com/)<br>
