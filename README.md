@@ -21,12 +21,16 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node_js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Html Badge](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![css Badge](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![git Badge](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#) [![Bootstap Badge](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![Adobe Xd Badge](https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white)](#)  [![Mysql Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### My favorite languages/framework
-- PHP / Laravel
-- Javascript / NodeJs(ExpressJs)
-
 ### Statistics:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-pacis&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 |My overall statistics|Top most languages |
 |------------------|------------------|
 |![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=N-pacis&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-pacis&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
+
+#### My Certificates:
+- [Hacker Rank REST API Intermediate](https://www.hackerrank.com/certificates/f428b2e78ac8)<br>
+- [FreeCode Camp Backend Certificate](https://freecodecamp.org/certification/pacis30/back-end-development-and-apis)<br>
+
+#### My favorite languages/framework
+- PHP / Laravel
+- Javascript / NodeJs(ExpressJs)
