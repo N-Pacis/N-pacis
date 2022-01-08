@@ -27,5 +27,5 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 ### Statistics:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-pacis&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 |My overall statistics|Top most languages |
-|------------------|-------------|
-|![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=N-pacis&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-pacis&langs_count=10&count_private=false&hide_border=true&theme=tokyonight&layout=compact)|
+|------------------|------------------|
+|![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=N-pacis&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-pacis&langs_count=10&hide_border=true&theme=tokyonight)|
