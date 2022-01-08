@@ -31,6 +31,13 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 - [Hacker Rank REST API Intermediate](https://www.hackerrank.com/certificates/f428b2e78ac8)<br>
 - [FreeCode Camp Backend Certificate](https://freecodecamp.org/certification/pacis30/back-end-development-and-apis)<br>
 
+#### My Blogs:
+- [Introduction to programming](https://docs.google.com/presentation/d/1dR75qwxay-8czhFCe5i9i5VoSdP51HaRwxL6Xm72aJ0/edit?usp=sharing)<br>
+- [Introduction to networking](https://docs.google.com/presentation/d/18sdBVTvj98YclC3e7uVKHEj_hlCJJ2DKmFM-T3k5woQ/edit?usp=sharing)<br>
+- [Introduction to digital systems](https://docs.google.com/presentation/d/1oWkr2SgQYnVF1P7Yx2-UnniexFrBOKosKgZslRNk4ZU/edit?usp=sharing)<br>
+- [Introduction to cyber security](https://docs.google.com/presentation/d/10ddOXbhQFqC1YLu4qdr_VNd40OQ9to04Exm-iRO3xpw/edit?usp=sharing)<br>
+- [Introduction to app infrastructure](https://docs.google.com/presentation/d/1lviV3d2Wwtq57EklGF1035WZix9UtmFmyDn_MzZB_Es/edit?usp=sharing)<br>
+
 #### My favorite languages/framework
 - PHP / Laravel
 - Javascript / NodeJs(ExpressJs)
