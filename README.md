@@ -26,7 +26,7 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 
 ### Statistics:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-pacis&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-pacis&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 
 |My overall statistics|Top most languages |
 |------------------|-------------|
