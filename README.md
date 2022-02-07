@@ -13,9 +13,9 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 #### Some of the projects i'm still working on:
 - [Nyigisha E-learning](http://nyigisha-e-learning.herokuapp.com/)<br>
 - [Store Management System](http://store-management-pacis.herokuapp.com/)<br>
-- [Code Ama](https://codeama-frontend.vercel.app/)<br>
+- [Code Ama](https://codeama.vercel.app/)<br>
 - [Green Rwanda Project](https://green-rwanda.vercel.app/)<br>
-- [Ski Studio](https://ski-studio.netlify.app/)<br>
+- [Ski Studio](https://skidesign.xyz/)<br>
 
 #### Top Technologies & Tools
 
