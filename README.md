@@ -1,6 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-My name is Nkubito Pacis and I am a full-stack web developer, programmer and a student at Rwanda Coding Academy. I have a passion in doing backend development mostly and i also do some frontend development. I am full hooked into Javascript, Java and PHP and I use it in my daily projects.
+I am an Intermediate Software Developer dedicated to building and optimizing user-focused web apps for customers with various business objectives. Analytical problem solver with calm and focused demeanor and judicious and creative when crafting effective websites, web apps and platforms to propel competitive advantage and revenue growth. Focused on Backend development for 3+ years, implementing best functional and object-oriented programming practices and ensuring the best security practices.
+
+I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201) [![Mail Badge](https://img.shields.io/badge/-@stellan_011-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/stellan_011/) [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
@@ -9,9 +11,9 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 - Phone: +250780754952
 
 #### Some of the projects I have worked on:
+- [RTB Tvet Management](https://tvetmanagement.rtb.gov.rw/)<br>
 - [Tuura RMS](https://tuura-frontend.netlify.app)<br>
 - [Cyber security meetup Rwanda](http://cybersecuritymeetup.rw/)<br>
-- [Nyigisha E-Learning](http://nyigisha-e-learning.herokuapp.com/)<br>
 - [CodeAma](http://codeama-frontend.vercel.app/)<br>
 - [Green Rwanda Project](https://green-rwanda.vercel.app/)<br>
 - [Ski Studio](https://skidesign.xyz/)<br>
@@ -29,6 +31,6 @@ My name is Nkubito Pacis and I am a full-stack web developer, programmer and a s
 - [FreeCode Camp Backend Certificate](https://freecodecamp.org/certification/pacis30/back-end-development-and-apis)<br>
 
 #### My favorite languages/framework
-- PHP / Laravel
+- PHP / Laravel / CakePHP
 - Javascript / NodeJs(ExpressJs)
 - Java / SpringBoot
