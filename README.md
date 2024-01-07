@@ -1,8 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I am an Intermediate Software Developer dedicated to building and optimizing user-focused web apps for customers with various business objectives. Analytical problem solver with calm and focused demeanor and judicious and creative when crafting effective websites, web apps and platforms to propel competitive advantage and revenue growth. Focused on Backend development for 3+ years, implementing best functional and object-oriented programming practices and ensuring the best security practices.
-
-I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
+I am a skilled software engineer based in Kigali, Rwanda, with a three-year background in developing user-friendly solutions for government institutions, startups, and personal endeavors. My analytical problem-solving expertise drives me to construct robust platforms that amplify competitiveness and revenue streams. I consistently maintain a professional attitude through challenges and turn them into opportunities. My interpersonal skills strongly contribute to my journey as a lifelong learner and leader. As the lights of possibility shine ahead, I am eager to share my love for problem-solving and my belief in the transformative impact of technology with a community that appreciates diversity and innovation.
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201)  [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
