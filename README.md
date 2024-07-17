@@ -6,7 +6,6 @@ I am a skilled individual and a rising freshman at Davidson College, planning to
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201)  [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
 
 - Email: [pacisnkubito@gmail.com](mailto:pacisnkubito@gmail.com)<br>
-- Phone: +250780754952
 
 |My overall statistics|Top most languages |
 |------------------|------------------|
