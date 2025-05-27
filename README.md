@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-Pacis (pronounced as Pa-cheese) is a skilled computer scientist with hands-on experience in conceptualizing, developing, and managing large-scale applications. He is mainly interested in E-Governance, Digital Transformation, and Civic Technology, where he uses his expertise to create innovative solutions that enhance public services and drive technological advancements in government systems.
+Pacis is a skilled computer scientist with hands-on experience in conceptualizing, developing, and managing large-scale applications. He is mainly interested in E-Governance, Digital Transformation, and Civic Technology, where he uses his expertise to create innovative solutions that enhance public services and drive technological advancements in government systems.
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201)  [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
