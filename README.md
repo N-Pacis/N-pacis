@@ -14,7 +14,6 @@ He is also interested in E-Governance, Digital Transformation, and Civic Technol
 |![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=N-pacis&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-pacis&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
 
 
-#### My favorite languages/framework
+#### My favorite languages
 - Java
 - Javascript
-- PHP
