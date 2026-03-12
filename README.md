@@ -1,6 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-Pacis is a skilled computer scientist with hands-on experience in conceptualizing, developing, and managing large-scale applications. He is mainly interested in E-Governance, Digital Transformation, and Civic Technology, where he uses his expertise to create innovative solutions that enhance public services and drive technological advancements in government systems.
+Pacis is a skilled Computer Scientist with 4+ years of hands-on experience in conceptualizing, developing, and managing large-scale applications. He has worked with multiple clients including startups, NGOs, Government agencies, and SaaS to transform their ideas into scalable products.
+
+He is also interested in E-Governance, Digital Transformation, and Civic Technology, where he uses his expertise to create innovative, and secure solutions that enhance public services, streamline business operations and drive technological advancements in society.
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Pacis_Nkubito-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pacis-nkubito-986001201)  [![Mail Badge](https://img.shields.io/badge/-PacisNkubito-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pacisnkubito@gmail.com)
